@@ -20,6 +20,9 @@ This project was created with:
 ![Colmar Academy Screen Recording](resources/images/colmar-academy-screen-recording.gif)
 ![Project Image 1](resources/images/project-image-1.jpg)
 
+## Live link 
+A live demo of the project is available at [https://i-prajwalsapat.github.io/Colmar_Academy_Project/].
+
 ## Status
 
 This project has been completed.
